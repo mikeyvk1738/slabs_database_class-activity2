@@ -1,0 +1,39 @@
+#AUTHOR:VUSI
+
+1.Transaction Processing System (TPS)
+ -Customer Sales Transactions
+ -Payment Processing
+ -Goods Receiving
+ -Stock Dispatches 
+
+2.Management Information Systems (MIS) & Decision Support Systems (DSS): 
+ -MIS Tracking: Store management utilizes a Management Information System (MIS) to view structured weekly sales reports aggregated by department.
+
+ -DSS Assistance: A Decision Support System (DSS) uses analytical models to run "what-if" simulations. It helps management evaluate how a promotion will affect profit margins,
+  inventory levels, and competitor reactions before launch.
+
+3.Executive Support Systems (ESS):
+ -Static Reports: Annual financial performance summaries and overall market share overviews.
+
+ -Competitor Data: Competitor pricing adjustments, regional expansion tracking, and market positioning data.
+
+ -Long-Term Forecasts: 5-year consumer trend projections and macroeconomic retail growth forecasts.
+
+4.KWS & Office Automation (OAS)
+ -Knowledge Work System (KWS): Computer-Aided Design (CAD) software used by retail space designers to optimize store layouts and shelf placements.
+
+ -Office Automation System (OAS): Microsoft 365 / Google Workspace used by administrative staff for daily email communication, document typing, and shift scheduling.
+
+#Section 2
+
+IT Landscape & Legacy Systems:
+Legacy System Integration Complexity
+
+Connecting old legacy systems to modern cloud apps increases architectural complexity due to:
+ -Incompatible data structures requiring custom middleware or complex API translation layers.
+
+Cost Savings via IT Landscape Diagrams
+
+An IT Landscape Diagram visually identifies financial inefficiencies in two primary ways:
+ -End-of-Life (EOL) Asset Tracking: It highlights aging software facing termination of vendor support. This allows SuperMart SA to retire high-maintenance systems before support fees escalate or security breaches occur.
+
